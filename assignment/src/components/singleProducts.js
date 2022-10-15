@@ -18,4 +18,4 @@ return (
   )
 }
 
-export default SingleProducts
+export default SingleProducts;

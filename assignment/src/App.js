@@ -1,7 +1,7 @@
 
 import './App.css';
 import Home from './components/Home';
-import SingleProducts from "./components/singleProducts.js"
+import SingleProducts from "./components/singleProducts.js";
 import {Routes,Route} from "react-router-dom";
 
 function App() {
